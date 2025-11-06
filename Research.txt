@@ -1,0 +1,27 @@
+CoinRadar(i'll need a nice font for this one)
+1. Navbar/Header
+-Crypto or coin logo(img:something like a glowing bitcoin or abstract coin svg)
+-navigation links: home, tracker, about
+- Get started or track now button that links to the tracker page
+
+2. Hero Section
+- A big headline
+- A short paragraph
+- A "start tracking" button linking to the tracker page
+- Image idea: A large hero illustration of a digital dashboard, a 3d coin stack, or a globe
+surrounded by crypto logos(bitcoin, ethereum,etc) undraw.com or storyset.com
+
+3.
+Contents:
+- 3 or 4 short feature cards, eg
+live price updates
+view market trends
+add coins to favorites
+search any coin instantly
+
+- Image idea: small icon illustrations for eah-minimal colorful(like from flaticon.com)
+
+4. Footer
+contents:
+- Your name, school or course, github link, and maybe "built with love using coingecko api"
+- Image idea: a small svg wave background or subtle dark gradient to finish the page nicely.
