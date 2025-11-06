@@ -99,6 +99,19 @@
   transform: scale(1.2);
 }
 
+.favorite-btn {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #ccc; /* default color */
+  transition: color 0.3s;
+}
+
+.favorite-btn.favorited {
+  color: gold; /* change color when clicked */
+}
+
 /* Price Change Colors */
 .price-change.up {
   color: green;

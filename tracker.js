@@ -37,6 +37,13 @@ function displayCoins(coins) {
     .join("");
 }
 
+// Favorite coin functionality
+coinsContainer.addEventListener("click", (e) => {
+  if (e.target.classList.contains("favorite-btn")) {
+    e.target.classList.toggle("favorited"); // toggle a CSS class
+  }
+});
+
 // Search functionality for all fetched coins
 searchInput.addEventListener("input", () => {
   const filter = searchInput.value.toLowerCase();
