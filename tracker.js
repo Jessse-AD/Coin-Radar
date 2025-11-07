@@ -11,7 +11,7 @@ async function fetchCoins() {
     displayCoins(coins);
   } catch (err) {
     coinsContainer.innerHTML =
-      "<p>Failed to load data. Please try again later.</p>";
+      "<p>Failed to load data. Check your internet connection.</p>";
     console.error(err);
   }
 }
